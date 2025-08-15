@@ -1,7 +1,5 @@
 # 🥷 Naruto - Batalha Ninja
 
-![Naruto vs Sasuke](https://s.aficionados.com.br/imagens/frases-iconicas-dos-personagens-de-naruto_f.jpg)
-
 Projeto desenvolvido para modelar e simular batalhas entre ninjas do universo **Naruto**, utilizando **Java** e conceitos de **Programação Orientada a Objetos** (POO).
 
 ## 📖 Descrição
